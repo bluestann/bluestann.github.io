@@ -2,8 +2,8 @@
 layout: post
 title: "A Full and Comprehensive Style Test"
 description: "Test post for style"
-date: 2016-08-15
-tags: [test, style]
+date: 2016-12-30
+tags: [sample post]
 comments: true
 share: true
 ---
