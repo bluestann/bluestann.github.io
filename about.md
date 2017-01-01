@@ -13,7 +13,7 @@ This is also a place for me to keep track of things I learnt, technical and life
 
 During my junior year in college, I have realized that keeping things in my brain is not enough anymore,
 given that I have been doing it since I was little. When I grow up, things tend to get much more complicated. For instance,
-things I am leanring in school is getting harder and harder, all the algorithmes I have practiced for job interviews are 
+things I am learning in school is getting harder and harder, all the algorithms I have practiced for job interviews are 
 easy to slip out of my memory, since they often contain long and tricky details that are impossible to maintain from top
 of my head. Thus, I have finally decided to do this blog as a collection for me to look up things I have learnt in life.
 It also serves as a motivation for me to stay on track of my life, since I will be writing down some short-term or long-term goals
